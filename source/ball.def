@@ -1,5 +1,4 @@
-LIBRARY     NDIRenderer.ax
-
+LIBRARY     SourceFilter.dll
 EXPORTS
             DllMain                 PRIVATE
             DllGetClassObject       PRIVATE
